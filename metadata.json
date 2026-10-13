@@ -1,0 +1,6 @@
+{
+  "name": "The Weimar Crisis & Nazi Emergence (1919-1924)",
+  "description": "Digital Synoptic Organizer exploring Nazi ideology (25 Point Program), Weimar crises (1919-1923), the Munich Putsch, judicial bias in the 1924 trial, and historiographical debates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
